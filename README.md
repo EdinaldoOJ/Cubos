@@ -1,4 +1,4 @@
-# 🚀 Desafio DevOps
+# 🚀 Desafio DevOps (Sistema operacional usado -> Linux)
 
 ## 📋 Índice
 1. [Visão Geral](#visão-geral)
@@ -13,7 +13,7 @@
 
 ## 🎯 Visão Geral
 
-Este projeto implementa uma infraestrutura completa usando **Docker** e **Terraform** com:
+Este projeto implementa uma infraestrutura completa usando **Docker** e **Terraform** no sistema operacional **Linux** com:
 - **Frontend**: Página HTML estática servida por Nginx
 - **Backend**: API Node.js que se conecta ao banco de dados
 - **Banco de Dados**: PostgreSQL com dados iniciais
