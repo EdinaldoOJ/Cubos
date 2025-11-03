@@ -1,0 +1,8 @@
+project_name = "desafio"
+environment  = "local"
+image_tag    = "v1.0.0"
+nginx_port   = 80
+backend_port = 3001
+db_username  = "cubos"
+db_password  = "cubos123"
+db_name      = "desafio"
